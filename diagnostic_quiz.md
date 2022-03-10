@@ -56,16 +56,38 @@ Act √
 
 > The act phase is when insights are put into action. This involves a company or organization implementing a plan to solve the original business problem. 
 
+A data analyst adds descriptive headers to columns of data in a spreadsheet. How does this improve the spreadsheet? 
 
+It eliminates unnecessary details   
+It clarifies the business strategy    
+It improves the aesthetic appeal    
+It adds context √   
 
+> Adding descriptive headers to columns of data in a spreadsheet adds context. Context is the condition in which something exists, such as a structure. 
 
+This is a selection from a spreadsheet that ranks the 10 most populous cities in North Carolina. To alphabetize the county names in column D, which spreadsheet tool would you use?
 
+Alphabetize range   
+Name range    
+Organize range    
+Sort range √    
 
+> You can use sort range to alphabetize the county names in column D. Sorting a range of data from A to Z helps data analysts organize and find data more quickly.
 
+You are querying a database of manufacturing company suppliers. The column name for supplier identification numbers is supplier_id. What is the correct clause to retrieve only data about the supplier with identification number 85317?
 
+WHERE supplier_id = 85317 √   
+COLUMN supplier_id = 85317    
+SELECT supplier_id 85317    
+FROM supplier_id 85317    
 
+> The correct clause is WHERE supplier_id = 85317. This clause tells the database to return only information about the supplier whose ID is 85317.
 
+Imagine you are sharing your data with a company stakeholder. Why might you display data with a data visualization instead of a table? Select all that apply.
 
+It thoroughly describes each data point   
+It’s aesthetically pleasing √   
+It helps them identify trends more quickly √    
+It’s easy to understand √   
 
-
-
+> When sharing data with others, you might use a data visualization instead of a table because visualizations are more aesthetically pleasing, save time when identifying trends, and are easier to understand.
