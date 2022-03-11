@@ -81,7 +81,7 @@ Select the image below that completes the statement.
 
 **Answer:**
 
-![alt text](https://github.com/jdrangosch/google-data-analytics/blob/main/Foundations_Data_Everywhere/Week_2/Img/05_02.jpeg?raw=true)
+![alt text](https://github.com/jdrangosch/google-data-analytics/blob/main/Foundations_Data_Everywhere/Week_2/Img/05_02.png?raw=true)
 
 > This image completes the statement. The first image in the statement is reflected in the second image. To complete the analogy, the answer would be an image that is a side-by-side reflection of the third image. 
 
@@ -93,7 +93,7 @@ The following question is about recognizing and matching patterns in shapes that
 
 Your task is to choose the figure that completes the statement. Fill in the blank:
 
-![alt text](https://github.com/jdrangosch/google-data-analytics/blob/main/Foundations_Data_Everywhere/Week_2/Img/06_01.png?raw=true)
+![alt text](https://github.com/jdrangosch/google-data-analytics/blob/main/Foundations_Data_Everywhere/Week_2/Img/06_01.jpeg?raw=true)
 
 Which image completes it?
 
