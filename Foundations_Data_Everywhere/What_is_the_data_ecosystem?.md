@@ -5,3 +5,5 @@ Data compositions
 Data ecosystems√   
 Data maps   
 Data storage systems    
+
+> Elements that interact with one another in order to produce, manage, store, organize, analyze, and share data are data ecosystems. These elements include hardware and software tools, as well as the people who use them. 
