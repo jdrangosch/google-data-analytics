@@ -75,13 +75,13 @@ Top right, bottom left is to top left, bottom right
 Your task is to choose the figure that completes the statement. Pay attention to the pattern by which the first and second shapes are related, and then figure out which choice matches shape 3. Fill in the blank:
 Top: left & center, middle: right IS TO top: right & center, middle: left AS top: right, middle: center, bottom: left IS TO
 
-![alt text](https://github.com/jdrangosch/google-data-analytics/blob/main/Foundations_Data_Everywhere/Week_2/Img/05_01.png?raw=true)
+![alt text](https://github.com/jdrangosch/google-data-analytics/blob/main/Foundations_Data_Everywhere/Week_2/Img/05_01.jpg?raw=true)
 
 Select the image below that completes the statement.
 
 **Answer:**
 
-![alt text](https://github.com/jdrangosch/google-data-analytics/blob/main/Foundations_Data_Everywhere/Week_2/Img/05_02.png?raw=true)
+![alt text](https://github.com/jdrangosch/google-data-analytics/blob/main/Foundations_Data_Everywhere/Week_2/Img/05_02.jpg?raw=true)
 
 > This image completes the statement. The first image in the statement is reflected in the second image. To complete the analogy, the answer would be an image that is a side-by-side reflection of the third image. 
 
