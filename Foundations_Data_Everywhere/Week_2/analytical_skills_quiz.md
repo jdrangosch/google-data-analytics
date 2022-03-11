@@ -1,4 +1,4 @@
-## L2 Embracing data analyst skills
+## data analyst skills
 
 &nbsp;
 
