@@ -6,11 +6,11 @@
 
 Identify the pattern from left to right in the set of blocks below and try to predict which block should replace the block with the question mark.
 
-![img](img/l2-01.png)
+![alt text](https://github.com/jdrangosch/google-data-analytics/blob/main/Foundations_Data_Everywhere/Week_2/Img/01_01.png?raw=true)
 
 **Answer:**
 
-![img](img/l2-01-ans.png)
+![alt text](https://github.com/jdrangosch/google-data-analytics/blob/main/Foundations_Data_Everywhere/Week_2/Img/01_02.png?raw=true)
 
 > This is the missing block. The pattern of the dots increases by one in each block. Therefore, the best answer has five dots.
 
@@ -21,13 +21,13 @@ Identify the pattern from left to right in the set of blocks below and try to pr
 Here's a more complex pattern. Identify the pattern from left to right in the images below and try to predict which image should come next.
 A series of different boxes containing shapes and patterns with the last box containing a question mark
 
-![img](img/l2-02.png)
+![alt text](https://github.com/jdrangosch/google-data-analytics/blob/main/Foundations_Data_Everywhere/Week_2/Img/02_01.png?raw=true)
 
 Based on the images above, which option comes next in the pattern? 
 
 **Answer:**
 
-![img](img/l2-02-ans.png)
+![alt text](https://github.com/jdrangosch/google-data-analytics/blob/main/Foundations_Data_Everywhere/Week_2/Img/02_02.png?raw=true)
 
 > This is the next image in the sequence based on two patterns present in the series: the number of sides and the number of dots. Moving from left to right, both decrease by one. Given these patterns, if the previous block contained a shape with four sides and three dots, then the next shape should have three sides and two dots. 
 
@@ -70,18 +70,18 @@ The following question is about recognizing and matching patterns in shapes that
 Two shapes are similar when one can become the other after a rotation clockwise ⟳ or counterclockwise ↺, or a reflection horizontally ↔ and/or vertically ↕.
 Top right, bottom left is to top left, bottom right
 
-![img](img/l2-05a.png)
+![alt text](https://github.com/jdrangosch/google-data-analytics/blob/main/Foundations_Data_Everywhere/Week_2/Img/05_01.png?raw=true)
 
 Your task is to choose the figure that completes the statement. Pay attention to the pattern by which the first and second shapes are related, and then figure out which choice matches shape 3. Fill in the blank:
 Top: left & center, middle: right IS TO top: right & center, middle: left AS top: right, middle: center, bottom: left IS TO
 
-![img](img/l2-05b.png)
+![alt text](https://github.com/jdrangosch/google-data-analytics/blob/main/Foundations_Data_Everywhere/Week_2/Img/05_01.png?raw=true)
 
 Select the image below that completes the statement.
 
 **Answer:**
 
-![img](img/l2-05-ans.png)
+![alt text](https://github.com/jdrangosch/google-data-analytics/blob/main/Foundations_Data_Everywhere/Week_2/Img/05_02.png?raw=true)
 
 > This image completes the statement. The first image in the statement is reflected in the second image. To complete the analogy, the answer would be an image that is a side-by-side reflection of the third image. 
 
@@ -93,13 +93,13 @@ The following question is about recognizing and matching patterns in shapes that
 
 Your task is to choose the figure that completes the statement. Fill in the blank:
 
-![img](img/l2-06.png)
+![alt text](https://github.com/jdrangosch/google-data-analytics/blob/main/Foundations_Data_Everywhere/Week_2/Img/06_01.png?raw=true)
 
 Which image completes it?
 
 **Answer:**
 
-![img](img/l2-06-ans.png)
+![alt text](https://github.com/jdrangosch/google-data-analytics/blob/main/Foundations_Data_Everywhere/Week_2/Img/06_02.png?raw=true)
 
 > Since the pattern in the first image was rotated 90 degrees counter-clockwise, this image completes the statement.
 
@@ -141,7 +141,7 @@ Now, identify patterns in a word problem using a data visualization. There are 1
 
 **Answer:**
 
-![img](img/l2-09-ans.png)
+![alt text](https://github.com/jdrangosch/google-data-analytics/blob/main/Foundations_Data_Everywhere/Week_2/Img/09.png?raw=true)
 
 > This diagram depicts six chocolates with caramel filling only, four chocolates with coconut filling only, two chocolates with both caramel and coconut filling, and the total number of chocolates is 12.
 
@@ -155,6 +155,6 @@ Find out how many children have sandwiches with **neither** peanut butter **nor*
 
 **Answer:**
 
-![img](img/l2-10-ans.png)
+![alt text](https://github.com/jdrangosch/google-data-analytics/blob/main/Foundations_Data_Everywhere/Week_2/Img/10.png?raw=true)
 
 > In this diagram, there are six sandwiches with jelly, five sandwiches with peanut butter, and three sandwiches with both. This means that there are (5 + 6 - 3 = 8 ) eight sandwiches with either peanut butter or jelly. There are a total of 10 children. Consider: 10 - 8 = 2. This means two children have neither peanut butter nor jelly in their sandwiches.
