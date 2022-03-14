@@ -11,4 +11,5 @@ By the end of this course, you will:
 - Evaluate the role of analytics in the data ecosystem. 
 - Conduct an analytical thinking self-assessment. 
 - Explore job opportunities available to you upon program completion, and learn about best practices in the job search.
+
 ![Certificate](https://github.com/jdrangosch/google-data-analytics/blob/main/Foundations_Data_Everywhere/Coursera%209H22H7TKLYEF.jpg?raw=true)
