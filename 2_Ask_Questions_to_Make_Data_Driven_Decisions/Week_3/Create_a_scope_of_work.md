@@ -38,7 +38,7 @@ I asked what was the problem that needed to be solved? how I could do It? what t
 
 > Congratulations on completing this hands-on activity! Although SOWs do not have a set format, they do include common foundational pieces of content. A good response would include how this content answers questions, sets expectations, and organizes activities. Beyond that, consider the following: 
 
-Usually, projects don’t start until an SOW is approved with its key pieces of content: the deliverables, milestones, timeline, and reports. To collect and synthesize this information, analysts identify and formalize quantifiable project requirements. They use structured thinking to ask clarifying questions, define what to accomplish, and specify project boundaries.
+> Usually, projects don’t start until an SOW is approved with its key pieces of content: the deliverables, milestones, timeline, and reports. To collect and synthesize this information, analysts identify and formalize quantifiable project requirements. They use structured thinking to ask clarifying questions, define what to accomplish, and specify project boundaries.
 
 
 
