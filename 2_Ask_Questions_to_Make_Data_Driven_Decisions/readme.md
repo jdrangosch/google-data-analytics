@@ -10,3 +10,4 @@ Learners who complete this certificate program will be equipped to apply for int
 - Discover how and why spreadsheets are an important tool for data analysts.
 - Examine the key ideas associated with structured thinking and how they can help analysts better understand problems and develop solutions.
 - Learn strategies for managing the expectations of stakeholders while establishing clear communication with a data analytics team to achieve business objectives.
+![Certificate](https://github.com/jdrangosch/google-data-analytics/blob/main/2_Ask_Questions_to_Make_Data_Driven_Decisions/Coursera%20P6352JA3C7DF.jpg?raw=true)
