@@ -1,0 +1,28 @@
+# Quiz
+Which of the following principles are key elements of data integrity? Select all that apply.
+
+Trustworthiness   
+Accuracy    
+Selectivity   
+Consistency   
+
+> Data integrity is the accuracy, completeness, consistency, and trustworthiness of data throughout its life cycle.
+
+Which process do data analysts use to make data more organized and easier to read?
+
+Data uniformity     
+Data replication    
+Data transfer   
+Data manipulation   
+
+> To make data more organized and easier to read, data analysts use data manipulation.
+
+Before analysis, a company collects data from countries that use different date formats. Which of the following updates would improve the data integrity?
+
+Organize the data by country 
+Leave the dates in their current formats 
+Change all of the dates to the same format
+Remove data in an unfamiliar date format
+
+> Changing all of the dates to the same format would improve the data integrity.
+
