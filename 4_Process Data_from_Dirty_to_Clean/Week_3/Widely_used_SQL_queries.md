@@ -42,4 +42,38 @@ What is the last name of the customer for the 3rd result returned?
 
 Zimmermann
 
-> Great job. Zimmermann is the last name of the customer for the 3rd result returned when making the following query:
+> Great job. Zimmermann is the last name of the customer for the 3rd result returned when making the following query:.
+
+### Insert new row in DB
+Example of inserting new data in a DB
+Sintaxis    
+```
+INSERT INTO 'data_base_location'
+  (colum_1, colum_2, colum_3, ...) 
+VALUES
+  (Value_1, Value_2, Value_3, ...)
+```
+Example
+```
+INSERT INTO 'customer_data.customer_address'
+  (customer_id, address, city, state, zipcode, country) 
+VALUES
+  (2645, '333 SQL Road', 'Jackson', 'MI', 49202, 'US')
+```
+### Update field in DB
+Example of updating new data in a DB
+Sintaxis    
+```
+UPDATE 'data_base_location' 
+SET colum_1 = 'value_1'
+WHERE colum_2 = 1234
+```
+Example
+```
+UPDATE 'data_base_location' 
+SET address = '123 new adress'
+WHERE customer_id = 2645
+
+```
+
+
